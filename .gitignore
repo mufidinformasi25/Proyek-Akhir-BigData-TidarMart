@@ -1,0 +1,6 @@
+data_proyek/
+.ipynb_checkpoints/
+__pycache__/
+*.csv
+*.json
+*.parquet
